@@ -1,3 +1,7 @@
 # Brain-Tumor-Detection
 	Developed GUI for detection of Brain Tumor using MATLAB
 	One can load the X ray image of Brain and detect where the tumor is located in brain
+	used Image processing Toolbox
+
+
+
